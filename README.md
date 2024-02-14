@@ -1,16 +1,13 @@
-### Hi there 👋
+# Halo semua! 👋 
 
-<!--
-**Mustofaadni04040/Mustofaadni04040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Mustofa Adny**.<br>
 
-Here are some ideas to get you started:
+Saya seorang mahasiswa **Teknologi Informasi** di Universitas Bina Sarana Informatika.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya memiliki minat yang besar menjadi seorang Full-Stack Developer.<br>
+
+Sekarang saya sedang mengikuti Program MBKM Kampus Merdeka di Dicoding, Learning Path: React Developer dan Backend.
+
+Diantara Technology yang saya kuasai yaitu: HTML, CSS, JavaScript, TailwindCSS, ReactJS, ExpressJS <br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mustofa-adny-a64791217/)ku ya.
