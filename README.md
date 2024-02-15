@@ -16,7 +16,7 @@ Saya memiliki minat yang besar menjadi seorang Full-Stack Developer. Sekarang sa
 ## Github Stats
 <p align="center">
 <a href="https://github.com/Mustofaadni04040">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mustofaadni04040&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mustofaadni04040&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mustofaadni04040&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mustofaadni04040&layout=compact&langs_count=8&theme=shadow_blue"/>
 </a>
 </p>
