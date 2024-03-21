@@ -7,6 +7,7 @@
 My name **Mustofa Adny**.<br>
 
 "I’m a Information and Technology student at University of Bina Sarana Informatika. I’m Studying about Technology with interest career in Tech.
+"I'm curently studying MSIB Batch 6 at Dicoding Indonesia, learning path: React Developer and BackEnd
 <br><br>
 
 
