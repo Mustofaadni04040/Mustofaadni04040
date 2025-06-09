@@ -25,28 +25,28 @@
 <!--Tools-->
 ## 🛠️ Tools & Technologies I Use and Explore
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <a href="https://github.com/Mustofaadni04040">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=html,javascript,typescript,go,python,css,tailwind,sass,mui,shadcn,react,nextjs"
     />
   </a>
 </p>
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <a href="https://github.com/Mustofaadni04040">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=redux,nodejs,expressjs,postgresql,mongodb,github"
     />
   </a>
 </p>
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <a href="https://github.com/Mustofaadni04040">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=docker,postman,vscode,npm"
     />
   </a>
 </p>
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <a href="https://github.com/Mustofaadni04040">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=vite,figma"
     />
@@ -61,7 +61,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Mustofaadni04040">
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mustofaadni04040&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+          <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mustofaadni04040&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </a>
       </p>
     </td>
@@ -69,7 +69,7 @@
       <h3 align="center"><strong>Most Used Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/Mustofaadni04040">
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mustofaadni04040&layout=compact&langs_count=8&theme=algolia"/>
+          <img align="center" height="180em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mustofaadni04040&layout=compact&langs_count=8&theme=algolia"/>
         </a>
       </p>
     </td>
@@ -79,7 +79,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Mustofaadni04040/client-eventku">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Mustofaadni04040&repo=client-eventku&theme=nightowl&show_owner=true&bg_color=050f2c&title_color=0194dd&text_color=ffffff" alt="client-eventku" />
+          <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Mustofaadni04040&repo=client-eventku&theme=nightowl&show_owner=true&bg_color=050f2c&title_color=0194dd&text_color=ffffff" alt="client-eventku" />
         </a>
       </p>
     </td>
@@ -87,9 +87,21 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Mustofaadni04040">
-          <img align="center" src="https://streak-stats.demolab.com?user=Mustofaadni04040&theme=nightowl&background=050f2c&fire=0194dd&ring=0194dd&sideNums=ffffff&sideLabels=ffffff&dates=0194dd&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" height="180em" src="https://streak-stats.demolab.com?user=Mustofaadni04040&theme=nightowl&background=050f2c&fire=0194dd&ring=0194dd&sideNums=ffffff&sideLabels=ffffff&dates=0194dd&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
   </tr>
 </table>
+
+
+<!--Contribution Graph-->
+<h2 align="left">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustofaadni04040&bg_color=050f2c&&color=ffffff&line=0194dd&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=false"/>
+</p>
