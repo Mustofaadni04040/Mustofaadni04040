@@ -105,12 +105,12 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustofaadni04040&bg_color=050f2c&&color=ffffff&line=0194dd&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
+<br />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mustofaadni04040/Mustofaadni04040/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mustofaadni04040/Mustofaadni04040/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Mustofaadni04040/Mustofaadni04040/output/pacman-contribution-graph.svg">
 </picture>
-
 <!--Footer-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=false"/>
