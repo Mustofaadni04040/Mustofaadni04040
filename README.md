@@ -1,5 +1,6 @@
-<img width="100%" height="400px" align="center" alt="GIF" src="https://raw.githubusercontent.com/Mustofaadni04040/banner-gif/main/3dgifmaker12140.gif" />
-
+<div align="center">
+  <img width="50%" height="400px" alt="GIF" src="https://raw.githubusercontent.com/Mustofaadni04040/banner-gif/main/3dgifmaker13798.gif" />
+</div>
 <!--Owl-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
