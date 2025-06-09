@@ -14,7 +14,7 @@
 - 🏙 Currently exploring new skills and technologies. <br />
 - 🌱 Currently learning many things, I believe that has impact for me in future. <br />
 - 🤝 Enjoy build something useful. <br />
-- 💻 Visit my [Portfolio](https://mustofa-adny.vercel.app) for more details about me. <br />
+- 💻 Visit my Portofolio: https://mustofa-adny.vercel.app for more details about me. <br />
 <br />
 
 <!--Profile Count Badge-->
