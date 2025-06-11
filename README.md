@@ -30,14 +30,14 @@
 <p align="center">
   <a href="https://github.com/Mustofaadni04040">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,javascript,typescript,go,python,css,tailwind,sass,mui,shadcn,react,nextjs"
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,javascript,typescript,go,python,css,tailwind,sass,mui,shadcn,react,reactnative,nextjs"
     />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Mustofaadni04040">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=redux,nodejs,expressjs,postgresql,mongodb,github"
+      src="https://go-skill-icons.vercel.app/api/icons?i=redux,nodejs,expressjs,postgresql,mongodb,github,expo"
     />
   </a>
 </p>
