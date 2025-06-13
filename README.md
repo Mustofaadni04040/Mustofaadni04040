@@ -11,7 +11,7 @@
 
 <!--Profile Description-->
 <p align="left">Hi there! I'm a Full Stack Developer who enjoys turning ideas into real apps,  I’m always excited to learn and build cool stuff from frontend to backend.</p>
-- ✨ Student of life :) <br />
+- ✨ Student of life :). <br />
 - 🏙 Currently exploring new skills and technologies. <br />
 - 🌱 Currently learning many things, I believe that have impact for me in future. <br />
 - 🤝 Enjoy build something useful. <br />
