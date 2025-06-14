@@ -37,7 +37,7 @@
 <p align="center">
   <a href="https://github.com/Mustofaadni04040">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=redux,nodejs,expressjs,postgresql,mongodb,github,expo"
+      src="https://go-skill-icons.vercel.app/api/icons?i=redux,nodejs,expressjs,postgresql,mysql,mongodb,github,expo"
     />
   </a>
 </p>
