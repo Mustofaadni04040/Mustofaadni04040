@@ -23,7 +23,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mustofaadni04040&label=Profile%20views&color=27548A&style=for-the-badge&logo=star" alt="Mustofaadni04040" style="padding-right:20px;" />
 </p>
 
-<!--Tools-->
+<!--Tools & Technologies-->
 
 ## 🛠️ Tools & Technologies I Use and Explore
 
