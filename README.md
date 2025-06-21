@@ -7,7 +7,7 @@
 
 <!--Profile Header-->
 
-# Hi/안녕하세요, <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ! I'm Mustofa Adny<br>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustofa-adny-a64791217/)](https://www.linkedin.com/in/mustofa-adny-a64791217/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/Mustofaadni04040/)](https://github.com/Mustofaadni04040/).
+# Hi/안녕하세요, <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ! I'm Mustofa Adny.<br>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustofa-adny-a64791217/)](https://www.linkedin.com/in/mustofa-adny-a64791217/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/Mustofaadni04040/)](https://github.com/Mustofaadni04040/)
 
 <!--Profile Description-->
 <p align="left">Hi there! I'm a Full Stack Developer who enjoys turning ideas into real apps,  I’m always excited to learn and build cool stuff from frontend to backend.</p>
